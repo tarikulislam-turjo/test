@@ -4,5 +4,11 @@
     "fingerprint": "dfdf",
     "activeStatus": true, 
     "name": "Turjo"
+  },
+  {
+    "device_id": "dfdfjhj",
+    "fingerprint": "dfdf",
+    "activeStatus": false, 
+    "name": "Turjdfo"
   }
 ]
