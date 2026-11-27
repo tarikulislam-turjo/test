@@ -6,9 +6,9 @@
         "name": "Turjo"
     },
     {
-        "device_id": "DEVICE-002",
-        "fingerprint": "MACHINE-FINGERPRINT-002",
-        "activeStatus": false,
+        "device_id": "5A513C44-EB08-4850-9AC1-E5017838C4BA",
+        "fingerprint": "6aeb49513f8fd5706a1a9b544eaa3ab8ce3ab081dcc6e10ed3a40fb9d7e57162",
+        "activeStatus": true,
         "name": "User 2"
     }
 ]
