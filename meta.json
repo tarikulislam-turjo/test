@@ -1,14 +1,14 @@
 [
-  {
-    "device_id": "dfdf",
-    "fingerprint": "dfdf",
-    "activeStatus": false, 
-    "name": "Turjo"
-  },
-  {
-    "device_id": "dfdfjhj",
-    "fingerprint": "dfdf",
-    "activeStatus": false, 
-    "name": "Turjdfo"
-  }
+    {
+        "device_id": "DEVICE-001",
+        "fingerprint": "MACHINE-FINGERPRINT-001",
+        "activeStatus": true,
+        "name": "Turjo"
+    },
+    {
+        "device_id": "DEVICE-002",
+        "fingerprint": "MACHINE-FINGERPRINT-002",
+        "activeStatus": false,
+        "name": "User 2"
+    }
 ]
